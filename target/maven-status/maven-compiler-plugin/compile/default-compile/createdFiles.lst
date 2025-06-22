@@ -1,0 +1,5 @@
+com\attestation\starter\config\EnvPostProcessor.class
+com\attestation\starter\App.class
+com\attestation\starter\config\OpenWeatherMapAutoConfiguration.class
+com\attestation\starter\service\WeatherService.class
+com\attestation\starter\config\OpenWeatherMapProperties.class
